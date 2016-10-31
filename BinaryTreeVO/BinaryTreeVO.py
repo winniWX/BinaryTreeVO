@@ -1,3 +1,6 @@
+
+# source from : http://www.geeksforgeeks.org/print-binary-tree-vertical-order-set-2/
+
 # Python program for printing vertical order of a given
 # binary tree
  
@@ -62,3 +65,5 @@ root.right.right.right = Node(9)
 print ("Vertical order traversal is")
 printVerticalOrder(root)
  
+ 
+ # This code is contributed by Nikhil Kumar Singh(nickzuck_007)
